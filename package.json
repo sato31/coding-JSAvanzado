@@ -22,7 +22,9 @@
   "homepage": "https://github.com/kikemaya/devFBatch15Junio22#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
+    "json-server": "^0.17.0",
     "xmlhttprequest": "^1.8.0"
   }
 }

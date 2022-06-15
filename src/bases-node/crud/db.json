@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "task": "Hola, soy una tarea dinamica json 1"
+    },
+    {
+      "task": "Hola, soy una tarea dinamica json 2"
+    },
+    {
+      "task": "Hola, soy una tarea dinamica json 3"
+    },
+    {
+      "task": "Hola, soy una tarea dinamica json 4"
+    },
+    {
+      "id": 4,
+      "task": "Hola, he sido enviado por POST!"
+    }
+  ]
+}
